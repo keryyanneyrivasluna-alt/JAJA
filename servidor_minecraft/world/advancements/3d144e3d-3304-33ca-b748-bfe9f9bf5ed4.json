@@ -441,9 +441,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2026-06-19 22:51:06 +0000",
+      "beef": "2026-06-19 23:06:49 +0000",
       "porkchop": "2026-06-19 22:35:47 +0000",
       "bread": "2026-06-19 23:04:37 +0000",
-      "glow_berries": "2026-06-19 22:45:02 +0000"
+      "glow_berries": "2026-06-19 22:45:02 +0000",
+      "golden_carrot": "2026-06-19 23:05:56 +0000"
     },
     "done": false
   },
@@ -1145,6 +1147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2026-06-19 23:09:51 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_pendant": {
     "criteria": {
       "has_iron_ingot": "2026-06-19 23:04:33 +0000"
@@ -1160,6 +1168,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2026-06-19 23:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2026-06-19 23:09:51 +0000"
     },
     "done": true
   },
@@ -1181,9 +1195,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2026-06-19 23:08:58 +0000"
+    },
+    "done": true
+  },
   "block_factorys_bosses:recipes/building_blocks/rope_roll": {
     "criteria": {
       "has_item": "2026-06-19 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2026-06-19 23:09:51 +0000"
     },
     "done": true
   },
@@ -1242,15 +1268,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2026-06-19 23:07:42 +0000"
+    },
+    "done": true
+  },
   "brutality:recipes/combat/miniature_anchor": {
     "criteria": {
       "has_iron_ingot": "2026-06-19 23:04:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2026-06-19 23:07:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2026-06-19 23:07:14 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2026-06-19 23:13:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2026-06-19 23:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2026-06-19 23:09:51 +0000"
     },
     "done": true
   },
@@ -1263,6 +1319,12 @@
   "aether:recipes/redstone/skyroot_tripwire_hook": {
     "criteria": {
       "has_string": "2026-06-19 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2026-06-19 23:09:51 +0000"
     },
     "done": true
   },
@@ -1290,6 +1352,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "seasonal_forest": "2026-06-19 23:13:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2026-06-19 23:04:33 +0000"
@@ -1305,6 +1373,12 @@
   "aether:recipes/decorations/skyroot_fletching_table": {
     "criteria": {
       "has_flint": "2026-06-19 23:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2026-06-19 23:09:51 +0000"
     },
     "done": true
   },
@@ -1344,6 +1418,12 @@
     },
     "done": true
   },
+  "brutality:recipes/combat/wooly_blindfold": {
+    "criteria": {
+      "has_black_wool": "2026-06-19 23:09:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2026-06-19 23:05:01 +0000"
@@ -1362,6 +1442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2026-06-19 23:08:55 +0000"
+    },
+    "done": true
+  },
   "block_factorys_bosses:recipes/misc/big_chain": {
     "criteria": {
       "has_item": "2026-06-19 23:04:33 +0000"
@@ -1371,6 +1457,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2026-06-19 23:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2026-06-19 23:09:51 +0000"
     },
     "done": true
   },
@@ -1401,6 +1493,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2026-06-19 23:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2026-06-19 23:08:55 +0000"
     },
     "done": true
   },
@@ -1440,6 +1538,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "seasonal_forest": "2026-06-19 23:13:58 +0000"
+    },
+    "done": false
+  },
   "block_factorys_bosses:recipes/combat/cannonball": {
     "criteria": {
       "has_item": "2026-06-19 23:04:33 +0000"
@@ -1452,9 +1556,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2026-06-19 23:09:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2026-06-19 23:04:33 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_cobweb": "2026-06-19 23:13:02 +0000"
     },
     "done": true
   },
@@ -1482,6 +1598,12 @@
     },
     "done": true
   },
+  "brutality:recipes/building_blocks/light_gray_office_rug": {
+    "criteria": {
+      "has_light_gray_wool": "2026-06-19 23:09:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2026-06-19 23:04:33 +0000"
@@ -1506,6 +1628,12 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2026-06-19 23:13:02 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/skyroot_iron_vanilla_shield": {
     "criteria": {
       "has_iron_ingot": "2026-06-19 23:04:33 +0000"
@@ -1524,6 +1652,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2026-06-19 23:08:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-06-19 23:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2026-06-19 23:08:55 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2026-06-19 23:04:33 +0000"
@@ -1533,6 +1679,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2026-06-19 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2026-06-19 23:09:51 +0000"
     },
     "done": true
   },
@@ -1551,6 +1703,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:pillager": "2026-06-19 23:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2026-06-19 23:07:14 +0000"
     },
     "done": true
   },
